@@ -1,0 +1,1 @@
+py -3 C:\Users\Adrian\Desktop\Price_Alert\Price_Alert.py install

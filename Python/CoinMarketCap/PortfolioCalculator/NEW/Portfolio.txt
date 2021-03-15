@@ -1,0 +1,4 @@
+Symbol,Quantity,Price
+Waves,175,0.9
+Bitcoin,1,5000
+ICON,1732,0.123

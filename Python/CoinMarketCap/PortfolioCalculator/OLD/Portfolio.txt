@@ -1,0 +1,6 @@
+Symbol,Quantity,Price
+Feathercoin,12000,0.05
+Bitcoin,1,5000
+Quatloo,1432,0.005
+Nano,324,1
+Litecoin,11.4,45

@@ -1,0 +1,1 @@
+python %cd%\Top_100_ranker.py install
